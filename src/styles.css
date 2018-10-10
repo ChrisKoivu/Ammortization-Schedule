@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.AmmSched td,
+th {
+  padding: 15px;
+}
+
+tr.odd {
+  background-color: rgb(216, 209, 209);
+}
+.info {
+  text-align: left;
+  padding-left: 15px;
+}
